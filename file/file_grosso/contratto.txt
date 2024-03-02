@@ -1,0 +1,26 @@
+Codice_contratto;Codice_cliente;Codice_dipendente;Stato_di_lavorazione
+1;1;1;In corso
+2;2;2;Approvato
+3;3;3;In corso
+4;1;3;Approvato
+5;2;1;In corso
+6;4;4;Approvato
+7;5;5;In corso
+8;3;2;Approvato
+9;5;2;Approvato
+10;5;3;In corso
+11;6;4;In corso
+12;7;5;Approvato
+13;8;6;In corso
+14;9;7;In corso
+15;10;8;Approvato
+16;1;9;In corso
+17;2;10;Approvato
+18;3;11;In corso
+19;4;12;Approvato
+20;5;13;In corso
+21;6;14;Approvato
+22;7;15;In corso
+23;8;1;In corso
+24;9;2;Approvato
+25;10;3;In corso

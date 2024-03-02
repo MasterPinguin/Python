@@ -1,0 +1,11 @@
+Codice_cliente;Cognome;Nome;Data_di_nascita;Indirizzo;Città;CAP;Provincia;e-mail
+1;Ricci;Paola;1990-03-08;Via Ricci 10;Milano;20100;MI;paola.ricci@email.com
+2;Galli;Marco;1982-07-18;Viale Galli 20;Roma;00120;RM;marco.galli@email.com
+3;Bianco;Giulia;1975-11-25;Corso Bianco 30;Torino;10120;TO;giulia.bianco@email.com
+4;Fabbri;Luigi;1987-09-12;Via Fabbri 15;Napoli;80120;NA;luigi.fabbri@email.com
+5;Conti;Martina;1995-01-05;Piazza Conti 8;Firenze;50120;FI;martina.conti@email.com
+6;Moretti;Simone;1980-04-20;Via Moretti 12;Venezia;30100;VE;simone.moretti@email.com
+7;Romano;Laura;1993-08-15;Via Romano 25;Palermo;90120;PA;laura.romano@email.com
+8;Santoro;Antonio;1978-12-02;Via Santoro 18;Bologna;40120;BO;antonio.santoro@email.com
+9;Mancini;Elisa;1985-06-10;Corso Mancini 22;Genova;16100;GE;elisa.mancini@email.com
+10;Rossi;Alessandro;1998-02-28;Via Rossi 14;Turin;10100;TO;alessandro.rossi@email.com

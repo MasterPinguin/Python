@@ -1,0 +1,17 @@
+Codice_dipendente;Cognome;Nome;Data_di_nascita;Indirizzo;Città;CAP;Provincia;Numero_di_figli;Stato_civile;e-mail;Posizione_lavorativa;Stipendio_annuo;Codice_sede;Numero_clienti_diretti
+1;Rossi;Mario;1980-05-15;Via Roma 123;Milano;20123;MI;2;Sposato;mario.rossi@email.com;Programmatore;50000;1;3
+2;Bianchi;Anna;1985-08-22;Viale Verdi 45;Roma;00100;RM;1;Single;anna.bianchi@email.com;Dipendente;35000;2;4
+3;Verdi;Luca;1977-12-10;Corso Italia 56;Torino;10100;TO;3;Sposato;luca.verdi@email.com; Manager;60000;3;4
+4;Ferrari;Laura;1992-04-30;Via dei Fiori 78;Napoli;80100;NA;0;Single;laura.ferrari@email.com;Programmatore;48000;4;2
+5;Gallo;Simone;1988-11-18;Piazza Garibaldi 32;Firenze;50100;FI;2;Sposato;simone.gallo@email.com;Analista;55000;5;2
+6;Moretti;Paolo;1983-09-08;Via Dante 56;Milano;20145;MI;2;Sposato;paolo.moretti@email.com;Analista;52000;1;1
+7;Romano;Giulia;1990-03-25;Via Roma 78;Roma;00145;RM;1;Single;giulia.romano@email.com;Dipendente;42000;2;1
+8;Mancini;Marco;1982-06-14;Corso Vittorio Emanuele 32;Torino;10123;TO;3;Sposato;marco.mancini@email.com;Dipendente;62000;3;1
+9;De Luca;Francesca;1987-12-05;Via dei Leoni 10;Napoli;80123;NA;0;Single;francesca.deluca@email.com;Programmatore;49000;4;1
+10;Ricci;Luigi;1995-02-20;Piazza Duomo 15;Firenze;50123;FI;2;Sposato;luigi.ricci@email.com;Dipendente;58000;5;1
+11;Martini;Silvia;1981-07-12;Via Garibaldi 20;Milano;20134;MI;1;Sposato;silvia.martini@email.com;Analista;51000;1;1
+12;Conti;Giovanni;1989-10-01;Viale Trastevere 40;Roma;00134;RM;2;Single;giovanni.conti@email.com; Manager;40000;2;1
+13;Greco;Elena;1986-04-18;Corso Re Umberto 15;Torino;10134;TO;0;Sposato;elena.greco@email.com;Programmatore;47000;3;1
+14;Santoro;Alessio;1993-11-28;Via Toledo 25;Napoli;80134;NA;3;Single;alessio.santoro@email.com;Analista;56000;4;1
+15;Fabbri;Arianna;1984-08-15;Piazza Santa Croce 30;Firenze;50134;FI;1;Sposato;arianna.fabbri@email.com;Dipendente;54000;5;1
+16;Tizio;Caio;30-12-2001;Via Figgia 34;Foggia;71100;FG;4;Sposato;gagdshd@gs.com;Programmatore;34000;6;0

@@ -1,0 +1,7 @@
+Codice_sede;Nome_sede;Indirizzo;Città;CAP;Provincia;Numero_dipendenti_sede
+1;Sede Milano;Via Milano 1;Milano;20100;MI;3
+2;Sede Roma;Viale Roma 5;Roma;00120;RM;3
+3;Sede Torino;Corso Torino 10;Torino;10120;TO;3
+4;Sede Napoli;Via Napoli 20;Napoli;80120;NA;3
+5;Sede Firenze;Piazza Firenze 15;Firenze;50120;FI;3
+6;Sede Foggia;Via foggi 34;Foggia;71100;FG;1

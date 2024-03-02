@@ -1,0 +1,78 @@
+[
+  {
+    "chiave": "persona",
+    "n": 1
+  },
+  {
+    "chiave": "uomo",
+    "n": 1
+  },
+  {
+    "chiave": "donna",
+    "n": 1
+  },
+  {
+    "chiave": "ragazzo",
+    "n": 1
+  },
+  {
+    "chiave": "ragazza",
+    "n": 1
+  },
+  {
+    "chiave": "man",
+    "n": 1
+  },
+  {
+    "chiave": "woman",
+    "n": 1
+  },
+  {
+    "chiave": "ragazzino",
+    "n": 1
+  },
+  {
+    "chiave": "ragazzina",
+    "n": 1
+  },
+  {
+    "chiave": "bambino",
+    "n": 1
+  },
+  {
+    "chiave": "bambina",
+    "n": 1
+  },
+  {
+    "chiave": "neonato",
+    "n": 1
+  },
+  {
+    "chiave": "neonata",
+    "n": 1
+  },
+  {
+    "chiave": "boy",
+    "n": 1
+  },
+  {
+    "chiave": "girl",
+    "n": 1
+  },
+  {
+    "chiave": "children",
+    "n": 1
+  },
+  {
+    "chiave": "kid",
+    "n": 1
+  },
+  {
+    "chiave": "dad",
+    "n": 1
+  },
+  {
+    "chiave": "mum",
+    "n": 1
+  }
+]

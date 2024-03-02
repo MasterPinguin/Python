@@ -1,0 +1,32 @@
+[
+  {
+    "campo1": 4,
+    "campo2": "foo",
+    "campo3": true
+  },
+  {
+    "campo1": 2,
+    "campo2": "bar",
+    "campo3": false
+  },
+  {
+    "campo1": 3,
+    "campo2": "baz",
+    "campo3": true
+  },
+  {
+    "campo1": 3,
+    "campo2": "baz",
+    "campo3": true
+  },
+  {
+    "campo1": 3,
+    "campo2": "baz",
+    "campo3": true
+  },
+  {
+    "campo1": 3,
+    "campo2": "baz",
+    "campo3": true
+  }
+]
